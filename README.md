@@ -1,4 +1,4 @@
-# Maze Lab
+# Maze Lab Writeup
 Exploring a 3D maze
 
 ## Purpose
